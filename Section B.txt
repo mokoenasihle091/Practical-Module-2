@@ -1,0 +1,62 @@
+
+
+#include <iostream>
+using namespace std;
+#include <string>
+
+int main() {
+  // Declare a C-style character string
+   char name[] = "Ratanda";
+  
+  //Declare a string class type
+  string Car = "Ford";
+  
+  //Access string values
+  cout << Car;
+  
+  //Use string functions
+  cout <<" " << Car.length();
+  cout <<" "<< name;
+  cout <<" "<< name[3];
+  
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
