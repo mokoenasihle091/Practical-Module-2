@@ -1,0 +1,68 @@
+
+
+
+
+
+
+
+
+
+
+
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Write C++ code here
+  string name;
+  string surname;
+  int age;
+  
+   name= "Ntando";
+   surname = "Phokojwe";
+   age =12;
+   
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
